@@ -1,0 +1,101 @@
+.div { align-content: center;}
+
+
+.caja1 {font-family: 'Courier New', Courier, monospace;
+        font-size:initial;
+        border: 2px  black;
+        font-weight: bold;
+        position: relative;
+        border-style: dashed;
+        top: 200px;
+        z-index: 5;
+        width: 700px;
+        height: 90px;
+        background-color: rgba(127, 255, 212, 0.575);
+        padding-top:  15px ;
+        padding-left: 10px;
+        left: 100px;
+        }
+
+.caja2  {font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        border: 2px  black;
+        position: relative;
+        border-style: dashed;
+        top: 600px;
+        bottom: 250px;
+        left: 100px;
+        z-index: 1;
+        width: 700px;
+        height: 90px;
+        background-color: rgba(127, 255, 212, 0.575);
+        padding-top:  15px ;
+        padding-left: 10px;
+        }     
+        
+.caja3 { font-family: 'Courier New', Courier, monospace;
+        text-align:inherit;
+        font-weight: bold;
+        border:2px red;
+        position: absolute;        
+        border-style:dashed;
+        z-index:1;
+        background-color: rgba(236, 211, 203, 0.658);
+        width: 550px;
+        height: 360px;
+        left: 300px;
+        padding-top: 200px;
+        padding-left: 15px;  
+         
+        }
+
+.caja4 {font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        border: 2px  rgb(105, 100, 100);
+        position: relative;
+        border-style: dashed;
+        z-index: 6;
+        width: 450px;
+        height: 100px;
+        background-color: rgba(221, 230, 96, 0.575);
+        margin-left: 300;
+        margin-top: 70px;
+       left: 360px;
+       top: 18px;
+       padding-left: 15px;
+       }
+
+.caja5 {font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        border: 2px rgb(105, 100, 100);
+    position: relative;        
+    border-style: dashed;
+    z-index: 4;
+    background-color: rgba(221, 230, 96, 0.575);
+    width: 450px;
+    height: 100px;
+    margin-bottom: 0;
+    margin-left: 300;
+    top: 260px;
+    left: 360px;
+    padding-left: 15px;
+
+    }
+
+.caja6 {font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        border: 2px;
+    position: absolute;        
+    border-style: dashed;
+    z-index: 4;
+    background-color: rgba(100, 148, 237, 0.253);
+    width: 250px;
+    height: 250px;
+    margin-bottom: 500px;
+    margin-left: 450px;
+    left: 80px;
+    top: 250px;    
+    padding-top: 200px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+    }
